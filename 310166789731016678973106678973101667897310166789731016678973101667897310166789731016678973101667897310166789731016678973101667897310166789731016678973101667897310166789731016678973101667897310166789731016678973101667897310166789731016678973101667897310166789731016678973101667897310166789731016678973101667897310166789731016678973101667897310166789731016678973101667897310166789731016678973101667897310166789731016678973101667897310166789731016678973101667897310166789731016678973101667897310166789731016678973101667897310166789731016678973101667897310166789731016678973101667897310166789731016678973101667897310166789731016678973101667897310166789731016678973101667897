@@ -6,7 +6,7 @@ local Tab1 = Window:NewTab("\\-Script Hub-//")
 
 local Tab1Section = Tab1:NewSection("\\-This script made by mech#0945-//")
 
-setclipboard(https://linktr.ee/brine777) 
+setclipboard("https://linktr.ee/brine777") 
 
 Tab1Section:NewButton("Pet Simulator X", "PSX", function()
 
